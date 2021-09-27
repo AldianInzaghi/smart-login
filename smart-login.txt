@@ -1,1 +1,2 @@
 Rencana untuk membuat smart login menggunakan qr-code
+- Mencari informasi tentang pembuatan smart login
